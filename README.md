@@ -59,4 +59,7 @@
 
 ![snake animation](https://github.com/Yazdannik/Yazdannik/blob/output/github-contribution-grid-snake2.svg)
 
+
+<img src="https://raw.githubusercontent.com/Yazdannik/Yazdannik/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
 ###
