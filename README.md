@@ -16,7 +16,7 @@
 
 - A Flight Dynamics and Control Researcher: focused on formation control of swarms of multi-copters
 - My area of interest are multi-agent systems; cooperative control; formation control; autonomous robots; complex systems; model predictive control; cognitive systems; swarm intelligence
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Personal website [link](https://syazdannik.ir)
 - I’m currently looking for a PHD position, this is [my resume]([https://read.cv/0xabdulkhalid](https://www.linkedin.com/in/saman-yazdannik/))
 
 <br><br>
