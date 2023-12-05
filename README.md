@@ -22,6 +22,13 @@
 
 - ⚡ Fun fact **I'm BATMAN**
 
+<h3 align="left">My Publications:</h3>
+- Nonlinear System Identification of Swarm of UAVs Using Deep Learning Methods - Pre-print on [arXiv](https://arxiv.org/abs/2311.12906)
+
+- Integrating Second Order Sliding Mode Control and Anomaly Detection Using Auto-Encoder for Enhanced Safety and Reliability of Quadrotor UAVs - Published in IJRRS
+
+- Emerging Applications and Challenges of Multi-Rotor Systems: A Comprehensive Review - Published in JTAE
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saman-yazdannik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saman-yazdannik" height="30" width="40" /></a>
