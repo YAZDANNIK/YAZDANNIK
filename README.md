@@ -51,7 +51,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Saman Yazdannik</h1> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+<h1 align="center">Hi 👋, I'm Saman Yazdannik <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </h1> 
 <h3 align="center">A Flight Dynamics and Control Researcher</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
