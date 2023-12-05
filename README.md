@@ -23,6 +23,7 @@
 - ⚡ Fun fact **I'm BATMAN**
 
 <h3 align="left">My Publications:</h3>
+
 - Nonlinear System Identification of Swarm of UAVs Using Deep Learning Methods - Pre-print on [arXiv](https://arxiv.org/abs/2311.12906)
 
 - Integrating Second Order Sliding Mode Control and Anomaly Detection Using Auto-Encoder for Enhanced Safety and Reliability of Quadrotor UAVs - Published in IJRRS
