@@ -55,8 +55,4 @@
   <img src="https://profile-counter.glitch.me/Yazdannik/count.svg?"  />
 </div>
 
-###
 
-![snake animation](https://github.com/Yazdannik/Yazdannik/blob/output/snake.svg)
-
-###
