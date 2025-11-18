@@ -3,19 +3,19 @@
 
 I am passionate about developing hybrid approaches for robotic and multi-agent systems that combine the stability proofs of classical control with the adaptability of machine learning. My goal is to achieve provable performance bounds with real-time adaptation to unknown dynamics.
 
-    🔭 I’m currently developing optimal control frameworks and researching data-driven, learning-based methods for hybrid controls.
+🔭 I’m currently developing optimal control frameworks and researching data-driven, learning-based methods for hybrid controls.
 
-    🌱 I’m currently learning more about physics-informed neural networks (PINNs) and their applications.
+🌱 I’m currently learning more about physics-informed neural networks (PINNs) and their applications.
 
-    👯 I’m looking to collaborate on projects involving robotics, multi-agent systems, and model predictive control.
+👯 I’m looking to collaborate on projects involving robotics, multi-agent systems, and model predictive control.
 
-    🤔 I’m looking for a PhD position in Control Theory.
+🤔 I’m looking for a PhD position in Control Theory.
 
-    💬 Ask me about robotics, control theory, multi-agent systems, and machine learning.
+💬 Ask me about robotics, control theory, multi-agent systems, and machine learning.
 
-    📫 How to reach me: s.yazdannik@email.kntu.ac.ir
+📫 How to reach me: s.yazdannik@email.kntu.ac.ir
 
-    📄 Know about my experiences through my CV.
+📄 Know about my experiences through my CV.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,23 +26,23 @@ I am passionate about developing hybrid approaches for robotic and multi-agent s
 
 Journal Articles:
 
-    A Novel Quadrotor Carrying Payload Concept via PID with FeedForward Terms - International Journal of Intelligent Unmanned Systems, 2024
+- A Novel Quadrotor Carrying Payload Concept via PID with FeedForward Terms - International Journal of Intelligent Unmanned Systems, 2024
 
-    Integrating Second Order Sliding Mode Control and Anomaly Detection Using Auto-Encoder - International Journal of Reliability, Risk and Safety: Theory and Application, 2023
+- Integrating Second Order Sliding Mode Control and Anomaly Detection Using Auto-Encoder - International Journal of Reliability, Risk and Safety: Theory and Application, 2023
 
-    Emerging Applications and Challenges of Multi-Rotor Systems: A Comprehensive Review - Technology in Aerospace Engineering [Persian], 2023
+- Emerging Applications and Challenges of Multi-Rotor Systems: A Comprehensive Review - Technology in Aerospace Engineering [Persian], 2023
 
 Conference Papers:
 
-    Enhanced Control of Small Quadrotor UAVs with Anomaly Detection and Prediction System - 7th International Conference on Reliability and Safety Engineering, 2023
+- Enhanced Control of Small Quadrotor UAVs with Anomaly Detection and Prediction System - 7th International Conference on Reliability and Safety Engineering, 2023
 
 Preprints:
 
-    Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks - arXiv preprint arXiv:2508.14536, 2025
+- Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks - arXiv preprint arXiv:2508.14536, 2025
 
-    An Integrated Approach to Neural Architecture Search for Deep Q-Networks - arXiv preprint arXiv, 2025
+- An Integrated Approach to Neural Architecture Search for Deep Q-Networks - arXiv preprint arXiv, 2025
 
-    Nonlinear System Identification of Swarm of UAVs Using Deep Learning Methods - arXiv preprint arXiv:2311.12906, 2023
+- Nonlinear System Identification of Swarm of UAVs Using Deep Learning Methods - arXiv preprint arXiv:2311.12906, 2023
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
