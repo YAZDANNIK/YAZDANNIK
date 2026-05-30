@@ -1,66 +1,146 @@
-<h1 align="center">Hi 👋, I'm Saman Yazdannik</h1>
-<h3 align="center">A Researcher at the Intersection of Control Theory and Machine Learning</h3>
+# Hi 👋, I'm Saman Yazdannik
 
-I am passionate about developing hybrid approaches for robotic and multi-agent systems that combine the stability proofs of classical control with the adaptability of machine learning. My goal is to achieve provable performance bounds with real-time adaptation to unknown dynamics.
+### Researcher at the Intersection of Control Theory and Machine Learning
 
-🔭 I’m currently developing optimal control frameworks and researching data-driven, learning-based methods for hybrid controls.
+I am a researcher working at the intersection of **control theory**, **machine learning**, and **robotics**, with a focus on developing hybrid approaches that combine the theoretical guarantees of classical control with the adaptability of modern learning-based methods. My goal is to design autonomous systems that achieve **provable performance bounds while adapting in real time to uncertain and unknown environments**.
 
-🌱 I’m currently learning more about physics-informed neural networks (PINNs) and their applications.
+### 🔬 Research Interests
 
-👯 I’m looking to collaborate on projects involving robotics, multi-agent systems, and model predictive control.
+* Control Theory
+* Robotics and Autonomous Systems
+* Multi-Agent Systems and Swarm Robotics
+* Model Predictive Control (MPC)
+* Physics-Informed Neural Networks (PINNs)
+* Learning-Based and Hybrid Control
+* System Identification
+* Optimal Control
 
-🤔 I’m looking for a PhD position in Control Theory.
+### 🔭 Current Research
 
-💬 Ask me about robotics, control theory, multi-agent systems, and machine learning.
+* Developing optimal control frameworks for space systems under uncertainty.
+* Investigating data-driven and learning-based methods for hybrid control systems.
+* Integrating machine learning with classical control to improve robustness, safety, and adaptability.
 
-📫 How to reach me: s.yazdannik@email.kntu.ac.ir
+### 🎓 Education
 
-📄 Know about my experiences through my CV.
+**M.Sc. in Flight Dynamics and Control**
+*K. N. Toosi University of Technology (KNTU), Tehran, Iran*
+2021 – 2024 | GPA: 4.0/4.0
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yazdannik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saman-yazdannik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saman-yazdannik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saman-yazdannik" height="30" width="40" /></a>
-</p>
-<h3 align="left">My Publications:</h3>
+* Thesis: *Behavior-Based Cooperative Control of Multi-Rotors with Collision Avoidance*
+* Advisor: Prof. Morteza Tayefi
 
-Journal Articles:
+**B.Sc. in Aerospace Engineering**
+*Islamic Azad University, Najafabad Branch (IAUN), Isfahan, Iran*
+2016 – 2020
 
-- A Novel Quadrotor Carrying Payload Concept via PID with FeedForward Terms - International Journal of Intelligent Unmanned Systems, 2024
+* Thesis: *Control of a Swarm of Aerial Robots with Bifurcation Theory*
 
-- Integrating Second Order Sliding Mode Control and Anomaly Detection Using Auto-Encoder - International Journal of Reliability, Risk and Safety: Theory and Application, 2023
+### 🧑‍🔬 Research Experience
 
-- Emerging Applications and Challenges of Multi-Rotor Systems: A Comprehensive Review - Technology in Aerospace Engineering [Persian], 2023
+**Graduate Research Assistant**
+*University of Isfahan Aeronautical Research Center*
+2025 – Present
 
-Conference Papers:
+* Developing optimal control frameworks for space systems.
+* Researching hybrid data-driven control methodologies.
 
-- Enhanced Control of Small Quadrotor UAVs with Anomaly Detection and Prediction System - 7th International Conference on Reliability and Safety Engineering, 2023
+**Graduate Research Assistant**
+*KNTU Institute of Intelligent Control Systems*
+2023 – 2025
 
-Preprints:
+* Cooperative control of multi-agent systems.
+* Robust aerial robotics and payload transportation.
+* Provably safe collision avoidance methods.
 
-- Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks - arXiv preprint arXiv:2508.14536, 2025
+### 👨‍🏫 Teaching Experience
 
-- An Integrated Approach to Neural Architecture Search for Deep Q-Networks - arXiv preprint arXiv, 2025
+* Graduate Teaching Assistant – Optimal Control (University of Isfahan)
+* Graduate Teaching Assistant – Automatic Control Systems (KNTU)
+* Graduate Teaching Assistant – Engineering Mathematics (KNTU)
+* Undergraduate Teaching Assistant – Aerodynamics II (IAUN)
 
-- Nonlinear System Identification of Swarm of UAVs Using Deep Learning Methods - arXiv preprint arXiv:2311.12906, 2023
+### 📚 Selected Publications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="http://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/> </a>
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yazdannik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yazdannik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+#### Journal Articles
+
+* **A Novel Quadrotor Carrying Payload Concept via PID with FeedForward Terms**
+  *International Journal of Intelligent Unmanned Systems*, 2024
+
+* **Integrating Second Order Sliding Mode Control and Anomaly Detection Using Auto-Encoder**
+  *International Journal of Reliability, Risk and Safety: Theory and Application*, 2023
+
+* **Emerging Applications and Challenges of Multi-Rotor Systems: A Comprehensive Review**
+  *Technology in Aerospace Engineering*, 2023
+
+#### Conference Papers
+
+* **Robust Formation Control of Aerial Robots using Chebyshev Neural Network Observer-Based SMC**
+  *ICRoM 2025*
+
+* **Enhanced Control of Small Quadrotor UAVs with Anomaly Detection and Prediction System**
+  *ICRSE 2023*
+
+#### Preprints
+
+* **Beyond ReLU: Chebyshev-DQN for Enhanced Deep Q-Networks** (2025)
+* **An Integrated Approach to Neural Architecture Search for Deep Q-Networks** (2025)
+* **Nonlinear System Identification of Swarm of UAVs Using Deep Learning Methods** (2023)
+
+### 📜 Patents
+
+* **Tri-Axial Moving-Mass Attitude Control Architecture for Coaxial Multi-Copter Systems**
+  UK Patent Application GB2611635.0 (2026)
+
+* **Cross-Domain Modular Payload Architecture and Centralized Mobility Frame**
+  UK Patent Application GB2611556.8 (2026)
+
+### 🏆 Honors & Awards
+
+* Best Thesis of the Academic Year (2025)
+* M.Sc. with Highest Distinction (Top 1%)
+* B.Sc. with High Honors (Top 10%)
+* Ranked 104th among 9,000+ candidates in Iran's National M.Sc. Entrance Examination
+* Best Student Magazine Award – Editor-in-Chief, Proxima Engineering Magazine
+
+### 🤝 Collaboration Interests
+
+I am interested in collaborating on research involving:
+
+* Robotics and Autonomous Systems
+* Multi-Agent Coordination
+* Swarm Intelligence
+* Learning-Based Control
+* Model Predictive Control
+* Physics-Informed Machine Learning
+
+### 🎯 Seeking Opportunities
+
+I am actively seeking **PhD positions in Control Theory, Robotics, Autonomous Systems, and Machine Learning for Control**.
+
+### 💬 Ask Me About
+
+Robotics • Control Theory • Multi-Agent Systems • Model Predictive Control • Machine Learning • PINNs • Autonomous Systems
+
+### 📫 Contact
+
+* Email: **[samanyazdannik@gmail.com](mailto:samanyazdannik@gmail.com)**
+* GitHub: **github.com/YAZDANNIK**
+* LinkedIn: **linkedin.com/in/saman-yazdannik**
+* Website: **[www.nik.systems](http://www.nik.systems)**
+
+### 🛠 Languages & Tools
+
+**Programming:** MATLAB/Simulink, Python, C++, Julia, R
+
+**Control & Robotics:** MPC, Sliding Mode Control, Nonlinear Control, ROS, Gazebo
+
+**Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, PINNs
+
+**Development:** Git, Docker, Linux
+
+**CAD & Simulation:** SOLIDWORKS, Fusion 360, Siemens NX
+
+---
+
+*"Combining the rigor of control theory with the adaptability of machine learning for the next generation of autonomous systems."*
